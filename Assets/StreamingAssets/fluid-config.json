@@ -1,0 +1,36 @@
+{
+    "windowMode": 1,
+    "controlDisplay": 0,
+    "fluidDisplays": [
+        1,
+        2,
+        3
+    ],
+    "activeScreens": 1,
+    "displays": [
+        {
+            "display": 0,
+            "width": 1920,
+            "height": 1080,
+            "mode": "borderless"
+        },
+        {
+            "display": 1,
+            "width": 1920,
+            "height": 1080,
+            "mode": "borderless"
+        },
+        {
+            "display": 2,
+            "width": 1920,
+            "height": 1080,
+            "mode": ""
+        },
+        {
+            "display": 3,
+            "width": 1920,
+            "height": 1080,
+            "mode": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds (share these as GitHub Releases, not in the repo)
+/[Bb]uild*/
+/[Ff]inal[Bb]uild*/
+*.apk
+*.aab
+*.unitypackage
+
+# IDE / generated project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports and OS files
+sysinfo.txt
+crashlytics-buildtime-id
+.DS_Store
+Thumbs.db
+desktop.ini

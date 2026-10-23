@@ -1,0 +1,102 @@
+{
+    "simResolution": 256,
+    "dyeResolution": 128,
+    "pressureIterations": 14,
+    "densityDissipation": 4.0,
+    "velocityDissipation": 3.9865834712982178,
+    "pressure": 0.3862782120704651,
+    "curl": 50.0,
+    "splatRadius": 0.3393879234790802,
+    "splatForce": 7136.0,
+    "colorUpdateSpeed": 17.205184936523438,
+    "exposure": 4.110769748687744,
+    "colorful": false,
+    "shading": true,
+    "bloom": true,
+    "bloomIntensity": 0.19150519371032715,
+    "bloomThreshold": 0.2670021057128906,
+    "bloomSoftKnee": 0.24703402817249298,
+    "sunrays": true,
+    "sunraysWeight": 0.3748849332332611,
+    "simulationRate": 60.0,
+    "simulationSpeed": 1.456322431564331,
+    "drawOnHover": true,
+    "idleMode": true,
+    "idleDelay": 2.0,
+    "idlePointers": 1,
+    "idleSpeed": 0.36909356713294983,
+    "attractDuringInteraction": false,
+    "usePalette": true,
+    "palette": [
+        {
+            "r": 0.18049612641334534,
+            "g": 0.6509804129600525,
+            "b": 0.05882351100444794,
+            "a": 1.0
+        },
+        {
+            "r": 0.0,
+            "g": 0.3539648950099945,
+            "b": 0.9948025345802307,
+            "a": 1.0
+        },
+        {
+            "r": 0.0,
+            "g": 0.6393051147460938,
+            "b": 1.0,
+            "a": 1.0
+        },
+        {
+            "r": 0.0,
+            "g": 0.7243529558181763,
+            "b": 1.0,
+            "a": 1.0
+        }
+    ],
+    "paletteSecondsPerColor": 0.9634418487548828,
+    "paletteLoop": true,
+    "animationStyle": 1,
+    "water": {
+        "viscosity": 2.0,
+        "waveHeight": 0.9531970024108887,
+        "rippleIntensity": 0.9420076608657837,
+        "rippleLife": 0.9850000143051147,
+        "swirl": 24.62499237060547,
+        "currentStrength": 4500.0,
+        "glitterAmount": 1.0,
+        "glitterBrightness": 2.0,
+        "idleCurrent": 1.009598731994629,
+        "mist": 1.027090072631836,
+        "idleWaves": 2.0,
+        "colorFlow": 3.0,
+        "strokeWhite": 0.3023679256439209
+    },
+    "shootingStars": {
+        "speed": 1.1724841594696045,
+        "brightness": 1.8980084657669067,
+        "tailLength": 0.5535376667976379,
+        "starDensity": 0.8550838232040405,
+        "headSize": 60.0,
+        "sparkle": 1.0
+    },
+    "comet": {
+        "trajectory": 0.5833333134651184,
+        "glowIntensity": 1.2000000476837158,
+        "particleCount": 1.0,
+        "headSize": 120.0,
+        "tailLength": 0.42589104175567627
+    },
+    "neon": {
+        "glowRadius": 0.5,
+        "colorIntensity": 1.521069049835205,
+        "lineWidth": 0.5,
+        "swirl": 0.0
+    },
+    "revealMode": true,
+    "revealImagePath": "",
+    "revealFit": 3,
+    "spotlightSize": 0.17924533784389496,
+    "spotlightFollowsAttract": false,
+    "revealBackground": 0.0,
+    "revealFluidOpacity": 1.0
+}
