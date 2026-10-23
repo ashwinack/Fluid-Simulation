@@ -4,6 +4,32 @@ A real-time GPU fluid simulation for a multi-display touch wall, built in Unity.
 
 Display 1 shows a control panel. Displays 2 and up show one continuous fluid across 1 to 3 screens. The fluid reacts to touch, mouse drag and mouse hover.
 
+![Water style with the logo spotlight](docs/screenshots/spotlight.jpg)
+
+## Screenshots
+
+### Animation styles
+
+| Classic | Water |
+|---|---|
+| ![Classic](docs/screenshots/style-classic.jpg) | ![Water](docs/screenshots/style-water.jpg) |
+
+| Shooting Stars | Comets |
+|---|---|
+| ![Shooting Stars](docs/screenshots/style-shooting-stars.jpg) | ![Comets](docs/screenshots/style-comets.jpg) |
+
+| Neon | Logo spotlight |
+|---|---|
+| ![Neon](docs/screenshots/style-neon.jpg) | ![Logo spotlight in Water](docs/screenshots/spotlight.jpg) |
+
+### Control panel (display 1)
+
+![Control panel](docs/screenshots/control-panel.png)
+
+| Animation style picker | Background image |
+|---|---|
+| ![Style picker](docs/screenshots/style-picker.png) | ![Background image dialog](docs/screenshots/background-dialog.png) |
+
 ## Features
 
 - **Animation styles**: Classic, Water, Shooting Stars, Comets and Neon. Each style has its own settings.
